@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Playground</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_anko">AnkoActivity</string>
+    <string name="title_activity_web_view_sheet">WebViewSheetActivity</string>
+    <string name="title_activity_web_view_bottom_sheet">WebViewBottomSheetActivity</string>
+</resources>
